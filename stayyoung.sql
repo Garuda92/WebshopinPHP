@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Aug 30, 2020 at 08:22 AM
+-- Generation Time: Sep 03, 2020 at 01:59 PM
 -- Server version: 10.4.13-MariaDB
 -- PHP Version: 7.2.31
 
@@ -108,7 +108,50 @@ INSERT INTO `customer` (`CustomerID`, `FirstName`, `LastName`, `ZIPCODE`, `City`
 (61, 'hasika', 'hasika', 0, 'asdasd', 'asdasd', 'sadasd', 'sadasd', 'sadsad@sad', 'NewComer', 75, '2020-08-22 14:43:59'),
 (62, 'Szandi', 'Szandi', 12021300, 'Havanna', 'Magyarországszki', '231321', '3213', 'sadsad@asdasd', 'NewComer', 76, '2020-08-22 16:26:14'),
 (63, 'Emili', 'Emili', 0, 'pocika', 'hasmenés', 'Kakilia', 'pelenka', 'kakis@pelus', 'NewComer', 77, '2020-08-22 16:31:08'),
-(64, 'Emili', 'Emili', 1022, 'Budapest', 'Hung', '3421', '4213321', 'saedads@xn--adsad-4ya', 'NewComer', 78, '2020-08-22 16:37:13');
+(64, 'Emili', 'Emili', 1022, 'Budapest', 'Hung', '3421', '4213321', 'saedads@xn--adsad-4ya', 'NewComer', 78, '2020-08-22 16:37:13'),
+(65, 'Sanyi32', 'Sanyi', 0, 'asdsad', 'asdasdsad', 'sadasd', 'asdsadasd', 'asdasaa@xn--dsad-koa4y.com', 'NewComer', 79, '2020-08-30 13:03:31'),
+(66, 'asdasd', 'asdasdas', 0, 'asdad', 'asdsad', 'asdasd', 'asdasd', 'sadasd@asdsad.com', 'NewComer', 80, '2020-08-30 13:04:15'),
+(67, 'asdasd', 'asdasdas', 0, 'asdad', 'asdsad', 'asdasd', 'asdasd', 'sadasd@asdsad.com', 'NewComer', 81, '2020-08-30 13:04:19'),
+(68, 'asdsad', 'sadsad', 0, 'asdasd', 'asdsad', 'asdsad', 'asdsad', 'asdasd@asdsad.com', 'NewComer', 82, '2020-08-30 13:04:42'),
+(69, 'asdsad', 'sadsad', 0, 'asdasd', 'asdsad', 'asdsad', 'asdsad', 'asdasd@asdsad.com', 'NewComer', 83, '2020-08-30 13:05:02'),
+(70, 'asdsad', 'sadsad', 0, 'asdsad', 'asdsad', 'asdsad', 'asdsad', 'asdads@asdsad.hu', 'NewComer', 84, '2020-08-30 13:05:25'),
+(71, 'asdsad', 'sadsad', 0, 'asdsad', 'asdsad', 'asdsad', 'asdsad', 'asdads@asdsad.hu', 'NewComer', 85, '2020-08-30 13:07:21'),
+(72, 'asdsad', 'sadasdsda', 0, 'sadasd', 'sadsad', 'sadsad', 'sadsad', 'sadsad@sadsadsa.hu', 'NewComer', 86, '2020-08-30 13:07:42'),
+(73, 'asdasdaqd', 'asdasdsad', 0, 'asdsadasd', 'sadasd', 'asdsad', 'asdsad', 'sadasd@sadsa.hu', 'NewComer', 87, '2020-08-30 13:08:08'),
+(74, 'asdasdaqd', 'asdasdsad', 0, 'asdsadasd', 'sadasd', 'asdsad', 'asdsad', 'sadasd@sadsa.hu', 'NewComer', 88, '2020-08-30 13:10:41'),
+(75, '234321', '213231', 241321, '21321', '213', '21332', '21321321', '213321@231312.hu', 'NewComer', 89, '2020-08-30 13:11:04'),
+(76, '2313213', '3244321', 321321, '4321213', '23132', '21321', '231321', '213321@hsadsa.hu', 'NewComer', 90, '2020-08-30 13:11:59'),
+(77, '2313213', '3244321', 321321, '4321213', '23132', '21321', '231321', '213321@hsadsa.hu', 'NewComer', 91, '2020-08-30 13:12:02'),
+(78, '321321', '3243124', 324321, '23321', '23321', '232132', '213213', '321312321@2312.hu', 'NewComer', 92, '2020-08-30 13:12:38'),
+(79, '2313123', '12321312', 21321, '21313', '231321', '321321', '321321', '21312@213213.hu', 'NewComer', 93, '2020-08-30 13:13:30'),
+(80, 'sadsa', 'dsadsad', 0, 'sadsad', 'sadsad', 'asdsad', 'asdasd', 'sadasddas@sadsad.hu', 'NewComer', 94, '2020-08-30 13:15:30'),
+(81, 'asdasd', 'sadasd', 0, 'asdasd', 'asdsad', 'saasdad', 'sadsad', 'asdasd@asdsadas.hu', 'NewComer', 95, '2020-08-30 13:16:01'),
+(82, 'asdasd', 'sadasd', 0, 'asdasd', 'asdsad', 'saasdad', 'sadsad', 'asdasd@asdsadas.hu', 'NewComer', 96, '2020-08-30 13:16:05'),
+(83, 'asdsadsad', 'sadsadsa', 0, 'asdsad', 'asdsadas', 'asdasd', 'sadsad', 'asdsadsa@sadasd.hu', 'NewComer', 97, '2020-08-30 13:16:44'),
+(84, 'asdsad', 'sadasd', 0, 'sadasd', 'asdasd', 'asdsad', 'asdsad', 'sadsad@asdasd.hu', 'NewComer', 98, '2020-08-30 13:18:10'),
+(85, 'sadasdsad', 'saddsad', 0, 'asdasd', 'asdasd', 'aseadsa', 'sadasd', 'sadads@sadsad.hu', 'NewComer', 99, '2020-08-30 13:18:57'),
+(86, 'sadasdsad', 'saddsad', 0, 'asdasd', 'asdasd', 'aseadsa', 'sadasd', 'sadads@sadsad.hu', 'NewComer', 100, '2020-08-30 13:26:19'),
+(87, 'sadasdsad', 'saddsad', 0, 'asdasd', 'asdasd', 'aseadsa', 'sadasd', 'sadads@sadsad.hu', 'NewComer', 101, '2020-08-30 13:32:22'),
+(88, 'sadasdsad', 'saddsad', 0, 'asdasd', 'asdasd', 'aseadsa', 'sadasd', 'sadads@sadsad.hu', 'NewComer', 102, '2020-08-30 13:34:12'),
+(89, 'sadasdsad', 'saddsad', 0, 'asdasd', 'asdasd', 'aseadsa', 'sadasd', 'sadads@sadsad.hu', 'NewComer', 103, '2020-08-30 13:36:29'),
+(90, 'sadasdsad', 'saddsad', 0, 'asdasd', 'asdasd', 'aseadsa', 'sadasd', 'sadads@sadsad.hu', 'NewComer', 104, '2020-08-30 13:36:38'),
+(91, 'sadsad', 'sadasd', 0, 'asdsad', 'sadsad', 'asdsad', 'sadsadsa', 'sadsad@asdsad.hu', 'NewComer', 105, '2020-08-30 13:44:52'),
+(92, 'sadsad', 'sadasd', 0, 'asdsad', 'sadsad', 'asdsad', 'sadsadsa', 'sadsad@asdsad.hu', 'NewComer', 106, '2020-08-30 13:45:26'),
+(93, 'asdsadasd', 'sadsaddas', 0, 'asdsad', 'asdsad', 'sadsad', 'sadasd', 'sadsad@sadsa.hu', 'NewComer', 107, '2020-08-30 13:45:44'),
+(94, 'asdsadasd', 'sadsaddas', 0, 'asdsad', 'asdsad', 'sadsad', 'sadasd', 'sadsad@sadsa.hu', 'NewComer', 108, '2020-08-30 13:47:43'),
+(95, 'asdsadasd', 'sadsaddas', 0, 'asdsad', 'asdsad', 'sadsad', 'sadasd', 'sadsad@sadsa.hu', 'NewComer', 109, '2020-08-30 13:56:06'),
+(96, '21231321', '213231', 21321, '2313213', '321321', '321321', '213321', '211313@2313213.hu', 'NewComer', 110, '2020-08-30 13:56:28'),
+(97, '21231321', '213231', 21321, '2313213', '321321', '321321', '213321', '211313@2313213.hu', 'NewComer', 111, '2020-08-30 13:56:56'),
+(98, '2133123', '21332133213213213123', 2313213, '2313213123', '3213213', '3213123', '3213213', '2133123@21321.hu', 'NewComer', 112, '2020-08-30 13:57:21'),
+(99, '2133123', '21332133213213213123', 2313213, '2313213123', '3213213', '3213123', '3213213', '2133123@21321.hu', 'NewComer', 113, '2020-08-30 13:58:38'),
+(100, '2313123213', '32132131232132133123', 2147483647, '231432132231', '21313213', '32141321', '213123213', '3211312312@23321.hu', 'NewComer', 114, '2020-08-30 13:59:47'),
+(101, '2313123213', '32132131232132133123', 2147483647, '231432132231', '21313213', '32141321', '213123213', '3211312312@23321.hu', 'NewComer', 115, '2020-08-30 14:01:16'),
+(102, '1232131233321321321', '213231213', 213213123, '21131', '213123', '321312', '2133123', '321321@213213.HU', 'NewComer', 116, '2020-08-30 14:01:46'),
+(103, 'Adminka', 'Admin', 1032, 'Admina', 'Adminánia', 'Admin utca admin szám', '+36702674545', 'admin@kac.hu', 'NewComer', 117, '2020-09-03 12:22:33'),
+(104, 'Davidke', 'Davidka', 1039, 'Budapest', 'Hungary', 'sadsadads', '+36702568545', 'hardveraprod@dinka.hu', 'NewComer', 118, '2020-09-03 13:35:52'),
+(105, 'Davidke', 'Davidka', 1039, 'Budapest', 'Hungary', 'sadsadads', '+36702568545', 'hardveraprod@dinka.hu', 'NewComer', 119, '2020-09-03 13:36:04'),
+(106, 'Davidke', 'Davidka', 1039, 'Budapest', 'Hungary', 'sadsadads', '+36702568545', 'hardveraprod@dinka.hu', 'NewComer', 120, '2020-09-03 13:36:09'),
+(107, 'asdsadsad', 'Adamasdsadsadsadsad', 0, 'asdsa', 'sadas', 'sadasd', 'sadasd', 'sadsadsa@asdasd.hu', 'NewComer', 121, '2020-09-03 13:37:46');
 
 -- --------------------------------------------------------
 
@@ -225,7 +268,14 @@ INSERT INTO `orderheader` (`OrderID`, `CustmerID`, `BillName`, `BillAddress`, `D
 (88, 64, 'Emili Emili', 'Kashyykl Vookie Land', 'Sajtos párizsi', 'Postai csomag', 'Átutalás', 182361, 162301, 'BEYOUNG', '2020-08-30 08:07:32'),
 (89, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 184270, 184270, 'DEFAULT', '2020-08-30 08:09:28'),
 (90, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 0, 0, 'DEFAULT', '2020-08-30 08:10:51'),
-(91, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 6381, 6381, 'DEFAULT', '2020-08-30 08:19:16');
+(91, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 6381, 6381, 'DEFAULT', '2020-08-30 08:19:16'),
+(92, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 8617, 8617, 'DEFAULT', '2020-08-30 08:23:54'),
+(93, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 8961, 7975, 'BEYOUNG', '2020-08-30 08:24:14'),
+(94, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 2580, 1290, 'DONTBEFAT', '2020-08-30 08:24:30'),
+(95, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 3393, 3393, 'DEFAULT', '2020-08-30 08:55:56'),
+(96, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 3818, 3398, 'BEYOUNG', '2020-08-30 08:56:31'),
+(97, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 52472, 52472, 'DEFAULT', '2020-09-03 13:11:33'),
+(98, 64, 'Emili Emili', 'Hung Budapest 3421', 'Hung Budapest 3421', 'Postai csomag', 'Átutalás', 7026, 6253, 'BEYOUNG', '2020-09-03 13:12:21');
 
 -- --------------------------------------------------------
 
@@ -618,7 +668,18 @@ INSERT INTO `orderitem` (`ProductOrderID`, `OrderID`, `Quantity`, `Price`, `Prod
 (8900005, 89, 1, 2236, 3, '2020-08-30 08:09:28'),
 (8900006, 89, 1, 1909, 4, '2020-08-30 08:09:28'),
 (9100001, 91, 2, 2236, 3, '2020-08-30 08:19:16'),
-(9100002, 91, 1, 1909, 4, '2020-08-30 08:19:16');
+(9100002, 91, 1, 1909, 4, '2020-08-30 08:19:16'),
+(9200001, 92, 3, 2236, 3, '2020-08-30 08:23:54'),
+(9200002, 92, 1, 1909, 4, '2020-08-30 08:23:54'),
+(9300001, 93, 1, 2580, 1, '2020-08-30 08:24:14'),
+(9300002, 93, 2, 2236, 3, '2020-08-30 08:24:14'),
+(9300003, 93, 1, 1909, 4, '2020-08-30 08:24:14'),
+(9400001, 94, 1, 2580, 1, '2020-08-30 08:24:30'),
+(9500001, 95, 1, 3393, 2, '2020-08-30 08:55:56'),
+(9600001, 96, 2, 1909, 4, '2020-08-30 08:56:31'),
+(9700001, 97, 2, 24000, 19, '2020-09-03 13:11:33'),
+(9700002, 97, 2, 2236, 3, '2020-09-03 13:11:33'),
+(9800001, 98, 1, 7026, 7, '2020-09-03 13:12:21');
 
 -- --------------------------------------------------------
 
@@ -655,7 +716,8 @@ INSERT INTO `products` (`ProductID`, `ProductName`, `ProductType`, `ProductCateg
 (11, 'Liquid Body Lufra', 'Bőrradír', 'Testápolás', '<p>Adja meg bőrének a sima, tündöklő ragyogást. A Liquid Body Lufra a test teljes bőrfelületét felélénkíti, gyengéd bőrradírozó hatásával pedig eltávolítja a bőrfelszínen összegyűlt szennyeződéseket, így a bőr ragyogóvá válik. A finomra őrölt dióhéj ledör', '11.png', '2020-08-15 10:00:03', 5676),
 (12, 'Sunright 50', 'Napolaj', 'Testápolás', '<p>Itt az idő, hogy magasabb elvárásokat támasszon a fényvédő termékekkel szemben! Ha túl hosszú ideig tartózkodik a napon, később nemkívánatos következményekkel, köztük az öregedés látható jeleinek idő előtti felbukkanásával szembesülhet, így bőrén ránco', '12.png', '2020-08-15 10:03:27', 7683),
 (13, 'Sunright 35', 'Napolaj', 'Testápolás', '<p>Itt az idő, hogy magasabb elvárásokat támasszon a fényvédő termékekkel szemben! Ha túl hosszú ideig tartózkodik a napon, később nemkívánatos következményekkel, köztük az öregedés látható jeleinek idő előtti felbukkanásával szembesülhet, így bőrén ránco', '13.png', '2020-08-15 10:04:25', 7683),
-(14, 'Epoch IceDancer (Lábápoló zselé)', 'Lábápoló', 'Testápolás', '<p>Felfrissíti, élénkíti lábait. Mindegy, hogy dolgozik vagy játszik, az állva töltött idõ kifárasztja a lábakat. Ez a könnyen felszívódó gél nem ragad, és azonnal hűti, illetve nyugtatja fáradt, sajgó lábait. A vadgesztenye, borsmenta olaj és vad menta k', '14.png', '2020-08-15 10:07:41', 9231);
+(14, 'Epoch IceDancer (Lábápoló zselé)', 'Lábápoló', 'Testápolás', '<p>Felfrissíti, élénkíti lábait. Mindegy, hogy dolgozik vagy játszik, az állva töltött idõ kifárasztja a lábakat. Ez a könnyen felszívódó gél nem ragad, és azonnal hűti, illetve nyugtatja fáradt, sajgó lábait. A vadgesztenye, borsmenta olaj és vad menta k', '14.png', '2020-08-15 10:07:41', 9231),
+(19, 'R2', 'Feszesítő', 'Arcápolás', '<p>Ön készen áll arra, hogy fiatalnak érezze magát? Hogy átélje a harmonikus szellemi és testi működés kiváltotta szabadságot? Ezzel nincs egyedül. Az este bevett R2 Night segít Önnek felfrissült közérzettel kezdenie a mindennapokat. A reggelente bevett R', '781599126248.jpg', '2020-09-03 11:44:08', 24000);
 
 -- --------------------------------------------------------
 
@@ -786,7 +848,50 @@ INSERT INTO `user` (`UID`, `UserName`, `LastModified`, `TypeOfUser`, `Active`, `
 (75, 'hasika75 ', '2020-08-22 14:43:59', 'Normal', 1, '05f07b64b4deff5296a3', 'sejp2hm6rb'),
 (76, 'Szandi76 ', '2020-08-22 16:26:14', 'Normal', 1, '4c733bc9116bdc01800f', 'h4vybi43yr'),
 (77, 'Emili77 ', '2020-08-22 16:31:08', 'Normal', 1, '71e7feedaddd7b0c88ee', 'k5h9oocjgs'),
-(78, 'Emili78 ', '2020-08-22 16:37:13', 'Normal', 1, 'eda4d2c4e11fff9cefaa01fdbed66135ce3b2ea5275b423eee5205954bdf620696006055d96c9fbf99b471f9257df59d0f856d2566fc8c14dbe32304f9c2a408', '25g8mxiy3l');
+(78, 'Emili78 ', '2020-08-22 16:37:13', 'Normal', 1, 'eda4d2c4e11fff9cefaa01fdbed66135ce3b2ea5275b423eee5205954bdf620696006055d96c9fbf99b471f9257df59d0f856d2566fc8c14dbe32304f9c2a408', '25g8mxiy3l'),
+(79, 'Sanyi3279 ', '2020-08-30 13:03:31', 'Normal', 1, 'f15fab072513325970a099f6f4ae7863b5f21a3e2e17be3250b5104e6171af784bccbcb60776ee95ae59b4f4a1216ad3413c68ca3793154747e012633f2c5ad1', 'wa2b87h5kx'),
+(80, 'asdasd80 ', '2020-08-30 13:04:15', 'Normal', 1, 'c98b0eac90cc86bb7edb8da7f787b6fc22684fe2892d06f4096dd6d7bbc66b204b2f080c918eab77f3848de1e1a839e13adf4818a4346f25dd343821f75e9d62', 'x8khmjd73w'),
+(81, 'asdasd81 ', '2020-08-30 13:04:19', 'Normal', 1, '38c2c5c8eacf9862683466c1b369b1f7f4688616a75f2c228d95d73cf245781c06bc5438185da89b4b31dbcb3a30ade5f4a538e7e63283ea5385ef58de71ccb4', '5xelmiw7ca'),
+(82, 'asdsad82 ', '2020-08-30 13:04:42', 'Normal', 1, '60ff3d163120e050e03054a41c517ee9e8e13b19d2bb3ca5794feb6a389df1c6c3af2e39b7d235cdb60063bcb63483da21e0f3c4cee62ab69d73972661e6fede', 's9wbe4cv5d'),
+(83, 'asdsad83 ', '2020-08-30 13:05:02', 'Normal', 1, 'df4c2db8cd502da6793a8393048509282a703d4d19b19e650906c587322c9bd6a4d57a54a5b6d2654f253e06debaf43999d275c6b700198f7b03417375525477', '8ak8vm6gt9'),
+(84, 'asdsad84 ', '2020-08-30 13:05:25', 'Normal', 1, '03e0f299c32ad3cadd6162f71cb859432f9cbc96aa2fc8caa20858483374103680c0dd1b96e3a29f44de37183f583864fdabaa0448d38b43b7fc340bcbcebae2', 'eiqp81ydqg'),
+(85, 'asdsad85 ', '2020-08-30 13:07:21', 'Normal', 1, 'e856557cd14cefb3493bea3a435ccfae14060a75a5ac80e3bc57ca03d5121a304f426b2608e591bc36aa489fccbbd199315823ad4375d994c994d22853527b20', 'fto3g6er11'),
+(86, 'asdsad86 ', '2020-08-30 13:07:42', 'Normal', 1, '6758c44f0ee028c23a5215a2ec4b7d20920111264b540cc333b8e2ff1715100685c477f1f045bd33e9ae7e72a1364474bb876507a430abb52ab275b1fb9d7870', '0540xmu1bk'),
+(87, 'asdasdaqd87 ', '2020-08-30 13:08:08', 'Normal', 1, 'c582f35ca767f1b3f0c175d41270cad5edafb19b42f8a1b48d15e65705b8db0a7d2cdb53b3b2d77c66179ffcc2a497fc9a8c700d0582137849f03ef8be9d8f3e', 'cnho7unian'),
+(88, 'asdasdaqd88 ', '2020-08-30 13:10:41', 'Normal', 1, 'aff2a0d03fb0d059e4e4505733e5708d532991dca096d4e7c2190b5ceda3af43e78ce27f1ceef87b7cd847a3e292efaa6f99a3cb106fe096e38a58b3a9fa6bb3', '54phl2dkig'),
+(89, '23432189 ', '2020-08-30 13:11:04', 'Normal', 1, '52eb3ceae83cc55f5e9d1dc8b77ffb48e8b1104897d46c17fce5ef5a39b692899ffeadaedacc25601e19403d1b71a9c971fa3339a8d34861fb5a0e5d4712fab0', '4mjugks1eo'),
+(90, '231321390 ', '2020-08-30 13:11:59', 'Normal', 1, '0aa47baf5552ef5870aaa218473fd48140dc48e8941e8d08aeac6e54939ade26f7f90119f76ecce36b3941c4398185dc0e1f7992026c704fa97d748da11d3b2e', 't31z41ub1j'),
+(91, '231321391 ', '2020-08-30 13:12:02', 'Normal', 1, 'c0ef11e26c2f75e9f0f72bd217d810d505557c475ec0c7bedce6226b405b4f2b0b4e760d2590589af284494b0ef09fab858ec20e15cd75384c7627a29e3a800d', 'uaqvx86x7k'),
+(92, '32132192 ', '2020-08-30 13:12:38', 'Normal', 1, '6f54deebe71ceb90035c83339b90d21cd58391958ec3702d053e671188f5c299d92dbc9a66b1f204cfbb4c8d935b2996ec83af44356b5986ed4c3ed7505a12ff', 'f1z9hbu750'),
+(93, '231312393 ', '2020-08-30 13:13:30', 'Normal', 1, '7592f174d0041182d0660819b8e8d3c16f36ad8550d4948f425053c5cf25a0b968bdc9d228efc3db973f0e2db256b9db0bf2c07334b011984666db39429242d0', '4d966zudff'),
+(94, 'sadsa94 ', '2020-08-30 13:15:30', 'Normal', 1, '77718c058b72c694f9c24dac0791d588fbabe854101e6aa424408ec93da11b3d87cecc78111f4006661eb19fcdde7cb9b18d138a8e54b6f202aa03ec8ffae5e6', 'q5pouxl0br'),
+(95, 'asdasd95 ', '2020-08-30 13:16:01', 'Normal', 1, 'f09f96e55775f8492f8b0d5e526d8139b34e91a33288f89c794b88c9aa96503b590bc89faee7fe0bd2ba6aa076e90aa24a0cd15a4458a3c020bdd9f71d203f25', '4w4jzls7dk'),
+(96, 'asdasd96 ', '2020-08-30 13:16:05', 'Normal', 1, 'f32e2030e65a318960afd47678ffdd6a13a85b2dc623f3aeb5fdc43b76d561b75a7abe321eb4d640d1fee26b63854436ee44729cc1792528551a713c363d7967', '19w10f351y'),
+(97, 'asdsadsad97 ', '2020-08-30 13:16:44', 'Normal', 1, '0e1bdc9992bec61d09501f81a48c7f2026b7e4f7eee6303b0ebb78e770931ca3a87b2ec19da26ae2c1b3e8cb06d5c588a1131137a17669a0a2ac7a8c9e5cdff0', '52t0xz4klg'),
+(98, 'asdsad98 ', '2020-08-30 13:18:10', 'Normal', 1, '0ee11b07e74a5f8c235ed8cecfdaf99a08abdf0f91ffc42ee3eb7b8a2e2fd5e7cb77d933e0819ac1dcefa426e791aeb6f011429eeea1182d071ec12b10929c3f', 'v48efoo7fl'),
+(99, 'sadasdsad99 ', '2020-08-30 13:18:57', 'Normal', 1, '5579f0ddee8ec7e324c94d53eb330e6bcb26c745623eed1a2484b8a090cf2cb48261f93dda4a6efe6a4e7abb22eda9854632f8ad305023f800c6bd9edd9b7f0a', 'tabvvbix1e'),
+(100, 'sadasdsad100 ', '2020-08-30 13:26:19', 'Normal', 1, 'a1288dfe12e328a26ec6ed3e84b0166ac7742c8482c863ba64612c848a3c194bd388a1765b07334e860dc8c8129c34e27780764d0cbbaa0bd7fd18705b026c23', '507haioyh3'),
+(101, 'sadasdsad101 ', '2020-08-30 13:32:22', 'Normal', 1, 'fe86c6afb7d41d4868fbeccfdb53307f9632feda604e2ecaa595e37ee04f6e2a40fdf57f819de9446e8e9b43eb2c5404296756d8c4180ab79595eb997bd8bff9', 'wy7hys2nxa'),
+(102, 'sadasdsad102 ', '2020-08-30 13:34:12', 'Normal', 1, '4c9317a997aa9a7fc6881017fd44cfd8b47a43db24ddb9a40f21bb2a27f842f9bae1ac7ef41d4968d5599ddde46759bb7dda08ae62cb44c24e5bbdb6f1ce608f', 'j69nhkx9o0'),
+(103, 'sadasdsad103 ', '2020-08-30 13:36:29', 'Normal', 1, '0cfa579236be569ca5361424029b4f694c1ce421896e62dc67560f221b2d644d1a4638ddf1ef3a1bc8887ccb2632496551e5766c90b5d97455831034334ae5ee', '36enkbujb5'),
+(104, 'sadasdsad104 ', '2020-08-30 13:36:38', 'Normal', 1, '8e61e8a24b825005ef6bad28fd3e5799e69ecc2feec9a400248a900dc46afcb6e4b581ae793a1a539e6a3715f1f60d25094f640e89e51d008c9a5755c4ef0656', 'offldoyskb'),
+(105, 'sadsad105 ', '2020-08-30 13:44:52', 'Normal', 1, 'd92543703a429d61e5610d5c15c8af40051bbb9f303d219bef32419e3ecc5fb46f403cb6368d43002972a9d6a9d20607ec34a517fa4d9b111d96a320ea2379bd', 'kmu0vd00us'),
+(106, 'sadsad106 ', '2020-08-30 13:45:26', 'Normal', 1, '86e57ff7d053bc53c20054e9cf472824457d878487ae2841b5f42fe851bd7ed8b61ae542dd7e1081b0f6935be9f308a49aad2f2100ecf77510b471d66282f5b1', 'bqhtxzrx5h'),
+(107, 'asdsadasd107 ', '2020-08-30 13:45:44', 'Normal', 1, '16c302112d2ccc602cb7095cae5c730dbe21cb8aa4e2cd3820d7624bf14ee8af0ecac5e54a7afaf72f9fb6f83801400027892ff3e8b5a4fc3e9d8a05cbd2f9b0', 'bl9sw4trvv'),
+(108, 'asdsadasd108 ', '2020-08-30 13:47:43', 'Normal', 1, 'bdf4ab4d278e45c50a2fdb0932de7088c4c9de82fb85ea496d52d729c0de4e092b015547a5faeb61daee67212930a34fdaad5158e0f7877825b7389c958f20d3', 'plz0owevaz'),
+(109, 'asdsadasd109 ', '2020-08-30 13:56:06', 'Normal', 1, '64dcb6158d17ac43b045dbbe9be4ae6eebadc69eec5a18e22768c79c5bde7704e100e3a31805f5090228213e912e54b1abe80a09fffeca6ac580a052a8fc780b', 'ekrojuruck'),
+(110, '21231321110 ', '2020-08-30 13:56:28', 'Normal', 1, '193e5157cda718c5cc8b6042594c805c9ce750d9f7e688a683e8e0202c51cb25bcdd472a2508447e5452c373faa4cb24d3fd5ccdacfb78095cb8f34ac0a4737a', '6p3fkqju7c'),
+(111, '21231321111 ', '2020-08-30 13:56:56', 'Normal', 1, '790844b110aeeba034737294580b80f704b7fb58f3ee17f0fea8123682d095abd28f6cf4703ad330a7d2cc0e43aac4ab6b831650f0d9e6396eaa7d4b0bca2b86', 'oopkii01mv'),
+(112, '2133123112 ', '2020-08-30 13:57:21', 'Normal', 1, '4cc61b682574c7287ed6c5af3942f0f6db8aa94f13a1a4b68f8468c5439a6da845ba00ab3afac4a745f8dce90bd0e55ee7e0eb348efac30b700156d9db5c6f2a', '5p439vt341'),
+(113, '2133123113 ', '2020-08-30 13:58:38', 'Normal', 1, '70f915695b384633b6dc990bc94076bd4293378f0d58e9b8f295cf06b369c4b6b954c7fd9b72dc70cbfbd6d9bda1a47ed0c308917d2d56e6b1ea618900dc3829', '7gdpl4xp17'),
+(114, '2313123213114 ', '2020-08-30 13:59:47', 'Normal', 1, '49b481f8a1c8b83e9298910c4858c9ab67d353c53240c1bb401d4bc57cf3455a2307114510a4a5310c8a691abc957f6eeaff0eaadcf3bd2b11217968041a0196', '17mbwimmfc'),
+(115, '2313123213115 ', '2020-08-30 14:01:16', 'Normal', 1, '478c8405eca4eb0f5287f2a1ff32b900fac362373f8279bed20964d75f1cb83a598b0cf9ef757090c2ca3bbe986cb2e9c069fb51f7b14768ab6e7b4112b85db9', 'azpwdfrxlz'),
+(116, '12321312333213213211', '2020-08-30 14:01:46', 'Normal', 1, 'f9fac27958588554b1f32d1ab42a4d39b7b173c7e565af9713d32d58afdc88dd219bafe770cced6755b892ce8407c1db3bde9161c1951c1407b9138acaa45f89', '8c3wbwgy8z'),
+(117, 'Adminka117 ', '2020-09-03 12:22:33', 'Admin', 1, '29dbc14db83584ce686e225b53643a0ae0ed29af51f89316c04006f55b1218421dc03030ac359ce75af1e69f3fbeccd3cdc664f6c00fad3ca90ffd1d3a4f3a2d', 'fwwg0kq3mn'),
+(118, 'Davidke118 ', '2020-09-03 13:35:52', 'Normal', 1, '9a8a299a4ab2172f37c27eeba2216962b44ca296f10211d442cb163b6ccfe52de542dcdeffad7a77cd1ad55f9404f3311ab538d3f2c9aee616d78f27a2139a08', '33w1735qx2'),
+(119, 'Davidke119 ', '2020-09-03 13:36:04', 'Normal', 1, '5a12a9b92546a7b710b80643f52bf38a388b3ba9bccb1fd2bc25bb8557d857917511fb5fb031af6c33e9859aac74f791ed543fd672602112dda43267f4a93431', 'abznllwbet'),
+(120, 'Davidke120 ', '2020-09-03 13:36:09', 'Normal', 1, 'c93ea7d342609dc43ba83ed0d3953ce949a04843b3fa318bde2e56ad0a3887abde3ae93528fc2842bceb5285da6ce1e741a88675c910b3a924fd5cca755b7611', 'ezoe68avuj'),
+(121, 'asdsadsad121 ', '2020-09-03 13:37:46', 'Normal', 1, 'aaf18abf2f7903a767457903424f94887358336d53f6e9b952d16a2a6ab5c5ec21a7df6d955a5d1351b297111bff8b19b7bc63124153728ecb43512d664f4a85', '95ih37gufi');
 
 -- --------------------------------------------------------
 
@@ -868,25 +973,25 @@ ALTER TABLE `voucher`
 -- AUTO_INCREMENT for table `customer`
 --
 ALTER TABLE `customer`
-  MODIFY `CustomerID` int(2) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=65;
+  MODIFY `CustomerID` int(2) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=108;
 
 --
 -- AUTO_INCREMENT for table `orderheader`
 --
 ALTER TABLE `orderheader`
-  MODIFY `OrderID` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=92;
+  MODIFY `OrderID` int(5) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=99;
 
 --
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `ProductID` int(2) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
+  MODIFY `ProductID` int(2) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=20;
 
 --
 -- AUTO_INCREMENT for table `user`
 --
 ALTER TABLE `user`
-  MODIFY `UID` int(2) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=79;
+  MODIFY `UID` int(2) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=122;
 
 --
 -- Constraints for dumped tables
